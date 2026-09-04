@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+
+# Next.js output
+/.next
+/out
+
+# local environment files
+.env*
+!.env.example
+
+# Vercel local metadata
+.vercel
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local preview captures
+*-preview.png
+
+# OS and editor files
+.DS_Store
+*.swp
+
+# TypeScript cache
+*.tsbuildinfo
